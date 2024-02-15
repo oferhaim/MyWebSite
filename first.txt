@@ -1,4 +1,4 @@
 This is first file
 This is scound line
 test
-This is fourth line
+This is fourth line.
